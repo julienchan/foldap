@@ -1,0 +1,17 @@
+{
+  "name": "purescript-foldap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-control": "^3.0.0",
+    "purescript-profunctor": "^3.0.0",
+    "purescript-unsafe-coerce": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
