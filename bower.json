@@ -9,7 +9,9 @@
   "dependencies": {
     "purescript-control": "^3.0.0",
     "purescript-profunctor": "^3.0.0",
-    "purescript-unsafe-coerce": "^3.0.0"
+    "purescript-profunctor-lenses": "^3.2.0",
+    "purescript-unsafe-coerce": "^3.0.0",
+    "purescript-exists": "^3.0.0"
   },
   "devDependencies": {
     "purescript-psci-support": "^3.0.0"
